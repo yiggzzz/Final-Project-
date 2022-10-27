@@ -29,3 +29,4 @@ of each model is measures and compared.
 - Google Colab, Python, Deep Learning and Neural Networks
 
 yajaira was here
+Tanisha was here
