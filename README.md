@@ -27,3 +27,5 @@ of each model is measures and compared.
 
 ## Software/Tools
 - Google Colab, Python, Deep Learning and Neural Networks
+
+yajaira was here
