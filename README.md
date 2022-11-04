@@ -17,7 +17,6 @@ of each model is measures and compared.
 ## Approach to create website
 - Write code to extract the required features from csv file
 - Analyze and preprocess the dataset by using EDA techniques
-- Divide the dataset into training and testing sets
 - Run selected machine learning and deep neural network algorithms like SVM, Random Forest, Autoencoder on the dataset
 - Write a code for displaying the evaluation result considering accuracy metrics
 - Compare the obtained results for trained models and specify which is better
@@ -25,8 +24,9 @@ of each model is measures and compared.
 ## Outcomes 
 - The website will be able to determine whether or not a URL is phishing or legitimate. 
 
+
 ## Software/Tools
-- Google Colab, Python, Deep Learning and Neural Networks
+- Google Colab, Python, Deep Learning and Neural Networks, Tableau and SQL 
 
 yajaira was here
 Tanisha was here
