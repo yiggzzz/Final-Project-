@@ -1,15 +1,15 @@
 #  Phishing Detection 
 
 ##  Description of source of data
-  - Topic was taken from 10 Best Machine Learning Projects with datasets, A [link](https://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset) was posted in slacks by Jamie. 
+  - Topic was taken from 10 Best Machine Learning Projects with datasets. A [link](https://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset) was posted in our group Slack by Jamie. 
   
 ## Reason why we selected topic?
- - Being that it is on the top 10 Best Machine Learning. We wanted use dataset that would be great especially for  Machine Learnin
+ - Being that it is on the top 10 Best Machine Learning, we wanted to use the dataset that would be great especially for  Machine Learning
 
 ## Question We  hope to answer 
-- will we be able to determine whether or not a URL is phishing or legitimate.
-- which machine learning will be bettter for Dataset 
-- after cleaning and preprocessing  Data, is our dataset optimize to through different machine model.  
+- Will we be able to determine whether or not a URL is phishing or legitimate?
+- Which machine learning will be bettter for Dataset?
+- After cleaning and pre-processing our data, is our dataset optimize enough to go through different machine learning models?
 
 ## Purpose 
 - To identify if there is a threat of phishing based on whether a URL is seeking to steal data, money, or both. 
