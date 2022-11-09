@@ -1,16 +1,16 @@
 #  Phishing Detection 
 
-# Where did we find Topic and dataset? 
+## Where did we find Topic and dataset? 
   - Topic was taken from 10 Best Machine Learning Projects with datasets. A link was posted in slacks by Jamie. 
   
-# Reson why we selected topic?
+## Reson why we selected topic?
  - Being that it is on the top 10 Best Machine Learning. We wanted use use dataset that would be great especially for  Machine Learning
 
-# Description of source of data
+## Description of source of data
  - 
 
 
-# Question We  hope to answer 
+## Question We  hope to answer 
 - will we be able to determine whether or not a URL is phishing or legitimate.
 - which machine learning will be bettter for Dataset 
 - after cleaning and preprocessing  Data, is our dataset optimize to through different machine model.  
