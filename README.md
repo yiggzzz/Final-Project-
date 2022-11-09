@@ -33,10 +33,10 @@ of each model is measures and compared.
 - Compare the obtained results for trained models and specify which is better
 
 ## Outcomes 
-- The website will be able to determine whether or not a URL is phishing or legitimate. 
+- Our model will be able to predict whether or not a given URL is phishing or legitimate. 
 
 
 ## Software/Tools
-- Jupyter Lab, Python, Deep Learning and Neural Networks, Tableau and SQL 
+- Jupyter Lab, Python, Tableau, SQLalchemy, and Google Slides
 
  
