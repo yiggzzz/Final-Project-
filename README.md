@@ -3,7 +3,7 @@
 ##  Description of source of data
   - Topic was taken from 10 Best Machine Learning Projects with datasets. A link was posted in slacks by Jamie. 
   
-## Reson why we selected topic?
+## Reason why we selected topic?
  - Being that it is on the top 10 Best Machine Learning. We wanted use use dataset that would be great especially for  Machine Learnin
 
 ## Question We  hope to answer 
@@ -39,4 +39,4 @@ of each model is measures and compared.
 ## Software/Tools
 - Jupyter Lab, Python, Deep Learning and Neural Networks, Tableau and SQL 
 
-  (link to dataset)[https://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset]
+  [link to dataset](https://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset)
