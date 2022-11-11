@@ -37,7 +37,11 @@ of each model is measures and compared.
 
 
 ## Software/Tools
+
+- Google Colab, Python, Deep Learning and Neural Networks
+
 - Jupyter Lab, Python, Tableau, SQLalchemy, and Google Slides
 
  
 [Google Slides Presentation](https://docs.google.com/presentation/d/1RNymUUpXelQRjNk4m4XSCXjVq5BquAU6ROr9ZRDRORw/edit?usp=sharing)
+
