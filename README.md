@@ -1,4 +1,15 @@
-# Phishing Detection Website
+#  Phishing Detection 
+
+##  Description of the source of our dataset
+  - Topic was taken from [10 Best Machine Learning Projects with datasets](https://medium.com/@letthedataconfess/10-best-machine-learning-projects-with-datasets-6184839c9100), which was posted by Jamie Miller on the Ask-the-Class slack channel. From this link, we clicked the dataset [link](https://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset) for the 5th best project, Phishing Detection.
+  
+## Reason why we selected topic
+ - Being that it is on the top 10 Best Machine Learning, we wanted use the dataset that would be ideal, especially for Machine Learning. 
+
+## Questions we hope to answer 
+- Will we be able to determine whether or not a URL is phishing or legitimate?
+- Which machine learning model will be better for our dataset?
+- After cleaning and pre-processing our data, is our dataset optimized enough to go through different machine learning models?
 
 ## Purpose 
 - To identify if there is a threat of phishing based on whether a URL is seeking to steal data, money, or both. 
@@ -17,13 +28,20 @@ of each model is measures and compared.
 ## Approach to create website
 - Write code to extract the required features from csv file
 - Analyze and preprocess the dataset by using EDA techniques
-- Divide the dataset into training and testing sets
 - Run selected machine learning and deep neural network algorithms like SVM, Random Forest, Autoencoder on the dataset
 - Write a code for displaying the evaluation result considering accuracy metrics
 - Compare the obtained results for trained models and specify which is better
 
 ## Outcomes 
-- The website will be able to determine whether or not a URL is phishing or legitimate. 
+- Our model will be able to predict whether or not a given URL is phishing or legitimate. 
+
 
 ## Software/Tools
+
 - Google Colab, Python, Deep Learning and Neural Networks
+
+- Jupyter Lab, Python, Tableau, SQLalchemy, and Google Slides
+
+ 
+[Google Slides Presentation](https://docs.google.com/presentation/d/1RNymUUpXelQRjNk4m4XSCXjVq5BquAU6ROr9ZRDRORw/edit?usp=sharing)
+
