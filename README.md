@@ -41,17 +41,17 @@ Jupyter Lab, along with Python's Pandas, Numpy, sklearn, tensorflow, and seaborn
 ### Database Storage
 Data will be stored and queried from in a SQLalchemy database.
 
-![URL_length](pics/ERD.png)
+![ERD](pics/ERD.png)
 
 ### Machine Learning
 Python's sklearn will be employed to create a supervised machine learning binary classification model using the phishing dataset. The goal is to create a model that is able to determine whether or not a URL is phishing or legitimate based on their key features.
 
-![URL_length](archive/rfmodel_confusion_matrix.jpg)
+![rfmodel_confusion_matrix-best](archive/rfmodel_confusion_matrix_best.png)
 
 ### Dashboard
 Our dashboard will be hosted on Tableau Public software, to create a fully functioning and interactive dashboard and story to visualize and present data/findings.
 
-![URL_length](pics/Tableau.png)
+![Tableau](pics/Tableau.png)
 
 [Put Dashboard link here](paste link here)
 
