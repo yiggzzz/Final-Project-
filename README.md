@@ -37,22 +37,30 @@ Jupyter Lab, Python, Tableau, SQLalchemy, and Google Slides
 ### Data Cleaning and Analysis
 Jupyter Lab, along with Python's Pandas, Numpy, sklearn, tensorflow, and seaborn libraries will be used to clean the data and perform an exploratory/statistical analysis.
 
-![URL_length](pics/URL_length.jpg)
+<p align="center">
+  <img width="600" height="200" src="pics/URL_length.jpg">
+</p>
 
 ### Database Storage
 Data will be stored and queried from in a SQLalchemy database.
 
-![ERD](pics/ERD.png)
+<p align="center">
+  <img width="600" height="200" src="pics/ERD.png">
+</p>
 
 ### Machine Learning
 Python's sklearn will be employed to create a supervised machine learning binary classification model using the phishing dataset. The goal is to create a model that is able to determine whether or not a URL is phishing or legitimate based on their key features.
 
-![Confusion Matrix](pics/rfmodel_confusion_matrix_best.png)
+<p align="center">
+  <img width="600" height="200" src="archive/rfmodel_confusion_matrix.jpg">
+</p>
 
 ### Dashboard
 Our dashboard will be hosted on Tableau Public software, to create a fully functioning and interactive dashboard and story to visualize and present data/findings.
 
-![Tableau](pics/Tableau.png)
+<p align="center">
+  <img width="600" height="200" src="pics/Tableau.png">
+</p>
 
 [Put Dashboard link here](paste link here)
 
