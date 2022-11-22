@@ -1,4 +1,6 @@
 #  Phishing Detection 
+![Intro](pics/intro.jpg)
+
 In this project, a dataset containing 11430 URLs with 87 extracted features. The dataset is designed to be used as benchmarks for machine learning-based phishing detection systems. Features are from three different classes: 56 extracted from the structure and syntax of URLs, 24 extracted from the content of their correspondent pages, and 7 are extracted by querying external services. The dataset is balanced, it contains exactly 50% phishing and 50% legitimate URLs.
 
 ## Context 
@@ -32,14 +34,22 @@ Jupyter Lab, Python, Tableau, SQLalchemy, and Google Slides
 ### Data Cleaning and Analysis
 Jupyter Lab, along with Python's Pandas, Numpy, sklearn, tensorflow, and seaborn libraries will be used to clean the data and perform an exploratory/statistical analysis.
 
+![URL_length](pics/URL_length.jpg)
+
 ### Database Storage
 Data will be stored and queried from in a SQLalchemy database.
+
+![ERD](pics/ERD.jpg)
 
 ### Machine Learning
 Python's sklearn will be employed to create a supervised machine learning binary classification model using the phishing dataset. The goal is to create a model that is able to determine whether or not a URL is phishing or legitimate based on their key features.
 
+![Confusion Matrix](pics/rfmodel_confusion_matrix_best.png)
+
 ### Dashboard
 Our dashboard will be hosted on Tableau Public software, to create a fully functioning and interactive dashboard and story to visualize and present data/findings.
+
+![Tableau](pics/Tableau.jpg)
 
 [Put Dashboard link here](paste link here)
 
