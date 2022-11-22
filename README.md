@@ -1,29 +1,14 @@
 #  Phishing Detection 
+In this project, a dataset containing 11430 URLs with 87 extracted features. The dataset is designed to be used as benchmarks for machine learning-based phishing detection systems. Features are from three different classes: 56 extracted from the structure and syntax of URLs, 24 extracted from the content of their correspondent pages, and 7 are extracted by querying external services. The dataset is balanced, it contains exactly 50% phishing and 50% legitimate URLs.
 
-##  Description of the source of our dataset
-  - Topic was taken from [10 Best Machine Learning Projects with datasets](https://medium.com/@letthedataconfess/10-best-machine-learning-projects-with-datasets-6184839c9100), which was posted by Jamie Miller on the Ask-the-Class slack channel. From this link, we clicked the dataset [link](https://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset) for the 5th best project, Phishing Detection.
-  
-## Reason why we selected topic
- - Being that it is on the top 10 Best Machine Learning, we wanted use the dataset that would be ideal, especially for Machine Learning. 
+## Context 
+Phishing continues to prove one of the most successful and effective ways for cybercriminals to defraud us and steal our personal and financial information.
+Our growing reliance on the internet to conduct much of our day-to-day business has provided fraudsters with the perfect environment to launch targeted phishing attacks. The phishing attacks taking place today are sophisticated and increasingly more difficult to spot. A study conducted by Intel found that 97% of security experts fail at identifying phishing emails from genuine emails. The purpose of this project is to identify if there is a threat of phishing based on whether a URL is seeking to steal data, money, or both.
 
 ## Questions we hope to answer 
-- Will we be able to determine whether or not a URL is phishing or legitimate?
-- Which machine learning model will be better for our dataset?
 - After cleaning and pre-processing our data, is our dataset optimized enough to go through different machine learning models?
-
-## Purpose 
-- To identify if there is a threat of phishing based on whether a URL is seeking to steal data, money, or both. 
-
-## Project Overview
-- A phishing website is a common social engineering method that mimics
-trustful uniform resource locators (URLs) and webpages. Phishing is a form
-of fraud where an attacker disguises a website as a reputable entity 
-in email or other forms of communications. The objective of this project is 
-to train machine learning models and deep neural networks on the dataset created
-to predict phishing websites. Both phishing and benign URLs of websites 
-are gathered to form a dataset and from the required URL
-and website content-based features are extracted. The performance level
-of each model is measures and compared.
+- Which machine learning model will be better for our dataset?
+- Will we be able to determine whether or not a URL is phishing or legitimate?
 
 ## Approach to create website
 - Write code to extract the required features from csv file
@@ -32,16 +17,31 @@ of each model is measures and compared.
 - Write a code for displaying the evaluation result considering accuracy metrics
 - Compare the obtained results for trained models and specify which is better
 
-## Outcomes 
-- Our model will be able to predict whether or not a given URL is phishing or legitimate. 
+## Group Members
 
+Yajaira Varillas Perez, Tanisha Trowers, Kathy Rodrigues
 
-## Software/Tools
+## Software/Tools/Resources
 
-- Google Colab, Python, Deep Learning and Neural Networks
+Data Source: Topic was taken from [10 Best Machine Learning Projects with datasets](https://medium.com/@letthedataconfess/10-best-machine-learning-projects-with-datasets-6184839c9100), which was posted by Jamie Miller on the Ask-the-Class slack channel. From this link, we clicked the dataset [link](https://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset) for the 5th best project, Phishing Detection.
 
-- Jupyter Lab, Python, Tableau, SQLalchemy, and Google Slides
+Jupyter Lab, Python, Tableau, SQLalchemy, and Google Slides
 
- 
+## Technologies Used
+
+### Data Cleaning and Analysis
+Jupyter Lab, along with Python's Pandas, Numpy, sklearn, tensorflow, and seaborn libraries will be used to clean the data and perform an exploratory/statistical analysis.
+
+### Database Storage
+Data will be stored and queried from in a SQLalchemy database.
+
+### Machine Learning
+Python's sklearn will be employed to create a supervised machine learning binary classification model using the phishing dataset. The goal is to create a model that is able to determine whether or not a URL is phishing or legitimate based on their key features.
+
+### Dashboard
+Our dashboard will be hosted on Tableau Public software, to create a fully functioning and interactive dashboard and story to visualize and present data/findings.
+
+[Put Dashboard link here](paste link here)
+
 [Google Slides Presentation](https://docs.google.com/presentation/d/1RNymUUpXelQRjNk4m4XSCXjVq5BquAU6ROr9ZRDRORw/edit?usp=sharing)
 
