@@ -1,5 +1,8 @@
 #  Phishing Detection 
-![Intro](pics/intro.png)
+<p align="center">
+  <img width="600" height="200" src="![Intro](pics/intro.png)">
+</p>
+
 
 In this project, a dataset containing 11430 URLs with 87 extracted features. The dataset is designed to be used as benchmarks for machine learning-based phishing detection systems. Features are from three different classes: 56 extracted from the structure and syntax of URLs, 24 extracted from the content of their correspondent pages, and 7 are extracted by querying external services. The dataset is balanced, it contains exactly 50% phishing and 50% legitimate URLs.
 
