@@ -1,6 +1,6 @@
 #  Phishing Detection 
 <p align="center">
-  <img width="600" height="200" src="![Intro](pics/intro.png)">
+  <img width="600" height="200" src="pics/intro.png">
 </p>
 
 
